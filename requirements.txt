@@ -1,0 +1,14 @@
+streamlit
+requests
+beautifulsoup4
+newspaper3k
+pandas
+transformers
+torch
+gtts
+deep-translator
+fastapi
+uvicorn
+stanza
+seaborn
+matplotlib
