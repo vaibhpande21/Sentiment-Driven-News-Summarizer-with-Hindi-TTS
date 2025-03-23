@@ -24,8 +24,7 @@ This web-based application extracts key details from multiple news articles rela
 ## 🚀 Installation & Setup
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/yourusername/news-sentiment-tts.git
-cd news-sentiment-tts
+git clone https://github.com/yourusername/news-sentiment-tts.git](https://github.com/vaibhpande21/Sentiment-Driven-News-Summarizer-with-Hindi-TTS.git
 ```
 
 ### 2️⃣ Install Dependencies
