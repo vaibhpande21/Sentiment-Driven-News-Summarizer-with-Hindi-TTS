@@ -91,8 +91,7 @@ curl -X POST "http://127.0.0.1:8000/generate_audio/" -H "Content-Type: applicati
 ## 📣 Deployment on Hugging Face Spaces
 [![Deploy to Hugging Face](https://img.shields.io/badge/Deploy-Hugging%20Face-blue?logo=huggingface)](https://huggingface.co/spaces/Vaibh21/news-sentiment-tts)
 
-## 📸 Screenshots
-*(Consider adding images or GIFs of your app UI for better visualization.)*
+
 
 ---
 Feel free to suggest further enhancements! 🚀
