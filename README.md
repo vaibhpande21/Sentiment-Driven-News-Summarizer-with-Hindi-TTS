@@ -88,9 +88,6 @@ curl -X POST "http://127.0.0.1:8000/generate_audio/" -H "Content-Type: applicati
 - **Comparative Analysis**: Insights into how media coverage varies.
 - **Hindi Audio Output**: Playable audio summarizing the sentiment report.
 
-## 📣 Deployment on Hugging Face Spaces
-[![Deploy to Hugging Face](https://img.shields.io/badge/Deploy-Hugging%20Face-blue?logo=huggingface)](https://huggingface.co/spaces/Vaibh21/news-sentiment-tts)
-
 
 
 ---
